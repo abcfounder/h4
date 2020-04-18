@@ -1,6 +1,6 @@
 from flask import Flask, render_template
 
-# change from GitHub
+# change from termux
 app = Flask(__name__)
 
 @app.route('/')
